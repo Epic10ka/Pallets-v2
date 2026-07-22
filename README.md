@@ -54,7 +54,7 @@ This is an improved version of my pallet counting project, refactored using obje
 ## Project Structure
 
 ```
-Pallets-v2/
+Pallets_v2/
 │── main.py
 |
 |── README.md
